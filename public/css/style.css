@@ -91,10 +91,38 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #235480;
+  background-color: #A20110;
 }
 
 .overlay-mf {
+  position: absolute;
+  top: 0;
+  left: 0px;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  opacity: .7;
+}
+
+.overlay-mf-jobs {
+  background-color: #2B53BB;
+}
+
+.overlay-mf-jobs {
+  position: absolute;
+  top: 0;
+  left: 0px;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  opacity: .7;
+}
+
+.overlay-mf-gambo {
+  background-color: #2C8C42;
+}
+
+.overlay-mf-gambo {
   position: absolute;
   top: 0;
   left: 0px;
